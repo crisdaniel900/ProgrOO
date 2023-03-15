@@ -62,4 +62,4 @@ Sin embargo, el UML y el Diagrama de Clases siguen siendo muy utilizados en la i
 
 4.StarUML: es una herramienta gratuita y de código abierto para el modelado UML, que ofrece una amplia gama de diagramas UML y herramientas de generación de código.
 
-5. IBM Rational Software Architect: es una herramienta comercial que ofrece un conjunto completo de funcionalidades para el modelado UML, incluyendo diagramas de clases, diagramas de componentes, diagramas de despliegue, entre otros.
+5. IBM Rational Software Architect: es una herramienta comercial que ofrece un conjunto completo de funcionalidades para el modelado UML, incluyendo diagramas de clases, diagramas de componentes, diagramas de despliegue, entre otros. f
