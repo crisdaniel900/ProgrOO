@@ -18,5 +18,5 @@ El primer lenguaje orientado a objetos fue Simula, propuesto por los investigado
 ## Define con tus palabras el concepto de abstracción 
  Se refiere al proceso de identificar y separar las características esenciales de un objeto, ignorando los detalles no esenciales o irrelevantes. 
 
-### ¿Por qué se considera fundamental en programación? 
+### 3. ¿Por qué se considera fundamental en programación? 
 permite a los programadores manejar objetos complejos de manera más efectiva y fácil de entender, ya que pueden centrarse en las características y comportamientos importantes sin tener que preocuparse por detalles innecesarios. Además, la abstracción permite la reutilización de código, ya que los objetos abstractos se pueden utilizar en múltiples programas o proyectos.
