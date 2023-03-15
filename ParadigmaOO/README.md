@@ -14,3 +14,9 @@ Los objetos pueden interactuar entre sí mediante el intercambio de mensajes, lo
 
 ### ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
 El primer lenguaje orientado a objetos fue Simula, propuesto por los investigadores noruegos Ole-Johan Dahl y Kristen Nygaard en la década de 1960. Simula fue desarrollado como una extensión del lenguaje de programación ALGOL y se utilizó para modelar situaciones del mundo real en áreas como la simulación de sistemas y la planificación de procesos.
+
+## Define con tus palabras el concepto de abstracción 
+ Se refiere al proceso de identificar y separar las características esenciales de un objeto, ignorando los detalles no esenciales o irrelevantes. 
+
+### ¿Por qué se considera fundamental en programación? 
+permite a los programadores manejar objetos complejos de manera más efectiva y fácil de entender, ya que pueden centrarse en las características y comportamientos importantes sin tener que preocuparse por detalles innecesarios. Además, la abstracción permite la reutilización de código, ya que los objetos abstractos se pueden utilizar en múltiples programas o proyectos.
