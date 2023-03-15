@@ -52,3 +52,14 @@ Se utiliza en una amplia variedad de sistemas de software, desde aplicaciones em
 En los últimos años, el uso del UML y en particular del Diagrama de Clases, ha disminuido ligeramente debido al surgimiento de nuevas metodologías de desarrollo de software y enfoques de modelado de sistemas, como el enfoque ágil, el enfoque de desarrollo de software guiado por pruebas (Test-Driven Development), el enfoque de desarrollo de software basado en comportamiento (Behavior-Driven Development), entre otros.
 
 Sin embargo, el UML y el Diagrama de Clases siguen siendo muy utilizados en la industria del software, especialmente en proyectos de desarrollo de software de gran escala y en sistemas críticos de seguridad y misión crítica. Además, el Diagrama de Clases sigue siendo una herramienta muy útil para la representación visual de la estructura de los sistemas de software, y se utiliza en muchos cursos universitarios y programas de formación en ingeniería de software.
+
+### Herramientas para el modelado
+1. Enterprise Architect: es una herramienta comercial que ofrece una amplia gama de funcionalidades para el modelado UML, incluyendo diagramas de clases, diagramas de secuencia, diagramas de casos de uso, entre otros.
+
+2.Visual Paradigm: es una herramienta comercial que ofrece una interfaz intuitiva y fácil de usar para crear y editar diagramas UML. Además, permite la colaboración en tiempo real entre varios usuarios y ofrece integración con otras herramientas de desarrollo de software.
+
+3.Lucidchart: es una herramienta en línea para la creación de diagramas, incluyendo diagramas UML. Ofrece una variedad de plantillas y formas UML predefinidas, y permite la colaboración en tiempo real.
+
+4.StarUML: es una herramienta gratuita y de código abierto para el modelado UML, que ofrece una amplia gama de diagramas UML y herramientas de generación de código.
+
+5. IBM Rational Software Architect: es una herramienta comercial que ofrece un conjunto completo de funcionalidades para el modelado UML, incluyendo diagramas de clases, diagramas de componentes, diagramas de despliegue, entre otros.
