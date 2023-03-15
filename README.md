@@ -4,4 +4,4 @@ PORTADA
 
 Nombre: Soberanes Oregel Cristopher Daniel
 
-[LINK] (..img/ar.md.)
+[Investigacion Unidad1 ](https://github.com/crisdaniel900/ProgrOO/blob/main/ParadigmaOO/README.md)
