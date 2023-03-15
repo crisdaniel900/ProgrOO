@@ -34,3 +34,5 @@ Es hacer metodos/funciones de manera privada y/o publica para que al momento de 
 la herencia permite que una clase derivada o subclase comparta los atributos y métodos de su clase base o superclase, lo que permite crear jerarquías de clases y simplificar el diseño de software.
 
 Por ejemplo, podemos tener una clase base "Vehículo" que contenga atributos y métodos que son comunes a todos los vehículos, como la marca, el modelo y la capacidad de carga. Luego, podemos crear una clase derivada "Automóvil" que herede de "Vehículo" y agregue atributos y métodos específicos de los automóviles, como la cantidad de puertas y el tipo de combustible.
+
+![Herencia](https://github.com/crisdaniel900/ProgrOO/blob/main/ParadigmaOO/herencia.jpg)
