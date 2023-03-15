@@ -1,0 +1,1 @@
+[este enlace](https://raw.githubusercontent.com/tunombre/turepositorio/nombre-de-la-rama/ruta/al/archivo).
