@@ -20,3 +20,6 @@ El primer lenguaje orientado a objetos fue Simula, propuesto por los investigado
 
 ### 3. ¿Por qué se considera fundamental en programación? 
 permite a los programadores manejar objetos complejos de manera más efectiva y fácil de entender, ya que pueden centrarse en las características y comportamientos importantes sin tener que preocuparse por detalles innecesarios. Además, la abstracción permite la reutilización de código, ya que los objetos abstractos se pueden utilizar en múltiples programas o proyectos.
+
+## 4. Explica el concepto de encapsulamiento
+Es hacer metodos/funciones de manera privada y/o publica para que al momento de llamar variables o cualquie valor este no pueda ser confundido con otro dentro del programa
