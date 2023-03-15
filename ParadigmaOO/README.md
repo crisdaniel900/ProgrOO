@@ -37,3 +37,17 @@ Por ejemplo, podemos tener una clase base "Vehículo" que contenga atributos y m
 
 ![Herencia](https://github.com/crisdaniel900/ProgrOO/blob/main/ParadigmaOO/herencia.jpg)
 ![Herencia2](https://github.com/crisdaniel900/ProgrOO/blob/main/ParadigmaOO/herencia2.jpg)
+
+# UML: Diagrama de clases
+
+El Lenguaje de Modelado Unificado (UML, por sus siglas en inglés) es un lenguaje gráfico de modelado utilizado en el desarrollo de software. Fue desarrollado en la década de 1990 por un equipo de expertos en modelado de software, liderado por Grady Booch, James Rumbaugh e Ivar Jacobson.
+
+Antes del UML, cada autor había desarrollado su propio lenguaje de modelado: Booch desarrolló el lenguaje Booch, Rumbaugh desarrolló el lenguaje Object Modeling Technique (OMT) y Jacobson desarrolló el lenguaje Object Oriented Software Engineering (OOSE). En 1994, los tres autores se unieron para crear un lenguaje de modelado común que integrara lo mejor de sus lenguajes individuales, lo que dio lugar al UML.
+
+El UML se diseñó para proporcionar un lenguaje de modelado común que permitiera a los desarrolladores de software representar visualmente los sistemas de software complejos, de manera que los distintos equipos de desarrollo pudieran trabajar juntos de manera más eficiente. El UML se convirtió en un estándar de facto para el modelado de software y se adoptó ampliamente en la industria del software.
+
+Se utiliza en una amplia variedad de sistemas de software, desde aplicaciones empresariales hasta sistemas embebidos y sistemas de control. Se utiliza en sistemas de información, sistemas de gestión de bases de datos, sistemas de telecomunicaciones, sistemas de control de procesos, sistemas de tiempo real, entre otros.
+
+En los últimos años, el uso del UML y en particular del Diagrama de Clases, ha disminuido ligeramente debido al surgimiento de nuevas metodologías de desarrollo de software y enfoques de modelado de sistemas, como el enfoque ágil, el enfoque de desarrollo de software guiado por pruebas (Test-Driven Development), el enfoque de desarrollo de software basado en comportamiento (Behavior-Driven Development), entre otros.
+
+Sin embargo, el UML y el Diagrama de Clases siguen siendo muy utilizados en la industria del software, especialmente en proyectos de desarrollo de software de gran escala y en sistemas críticos de seguridad y misión crítica. Además, el Diagrama de Clases sigue siendo una herramienta muy útil para la representación visual de la estructura de los sistemas de software, y se utiliza en muchos cursos universitarios y programas de formación en ingeniería de software.
