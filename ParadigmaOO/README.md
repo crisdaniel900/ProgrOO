@@ -24,7 +24,8 @@ permite a los programadores manejar objetos complejos de manera más efectiva y 
 ## 4. Explica el concepto de encapsulamiento
 Es hacer metodos/funciones de manera privada y/o publica para que al momento de llamar variables o cualquie valor este no pueda ser confundido con otro dentro del programa
 
+### Archivo sin encapsular
 ![Sin encapsular](https://github.com/crisdaniel900/ProgrOO/blob/main/ParadigmaOO/01.png)
 
-
+### Encapsulado
 ![Encapsulado](https://github.com/crisdaniel900/ProgrOO/blob/main/ParadigmaOO/02.png)
