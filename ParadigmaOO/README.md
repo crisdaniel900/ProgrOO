@@ -67,4 +67,5 @@ Sin embargo, el UML y el Diagrama de Clases siguen siendo muy utilizados en la i
 ## ¿Sabes de alguna empresa local que utilice este lenguaje?
 A ciencia cierta no conozco de una empresa que lo implemente, pero me he de suponer que grandes empresar como Google, Facebook entre otras implementan estos modelos en sus areas de trabajo para trabajos grandes.
 
+## 2.  Escribe una propuesta de una máquina que venda distintos artículos
 ![MaquinaVendedora](https://github.com/crisdaniel900/ProgrOO/blob/main/ParadigmaOO/Maquina%20Expendedora.jpg)
