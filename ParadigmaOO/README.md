@@ -10,5 +10,5 @@ Es importante destacar que la elección del paradigma a utilizar depende de las 
 
 Los objetos pueden interactuar entre sí mediante el intercambio de mensajes, lo que permite crear programas que modelen situaciones de la vida real. En lugar de pensar en términos de procedimientos o funciones aisladas, la POO se centra en el diseño y la implementación de objetos que trabajan juntos para alcanzar un objetivo.
 
-###¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
+###H3¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
 El primer lenguaje orientado a objetos fue Simula, propuesto por los investigadores noruegos Ole-Johan Dahl y Kristen Nygaard en la década de 1960. Simula fue desarrollado como una extensión del lenguaje de programación ALGOL y se utilizó para modelar situaciones del mundo real en áreas como la simulación de sistemas y la planificación de procesos.
